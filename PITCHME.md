@@ -6,8 +6,7 @@
 @snap[north-west text-white]
 @size[1.5em](응답하라1988)
 @snapend
-
-![](Image/image2.jpg)
+![1988](Image/image2.jpg)
 
 
 ---?image=Image/BG.jpg
