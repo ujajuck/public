@@ -7,7 +7,7 @@
 @size[1.5em](응답하라1988)
 @snapend
 
-![](Image/image1.jpg&size=auto 130%)
+![](Image/image2.jpg)
 
 
 ---?image=Image/BG.jpg
