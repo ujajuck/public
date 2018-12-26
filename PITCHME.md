@@ -4,7 +4,7 @@
 
 ---?image=Image/BG.jpg
 @snap[north-west text-white]
-@size[2.0em](응답하라 1988)
+@size[1.5em](응답하라1988)
 @snapend
 
 ![](Image/image1.jpg)
