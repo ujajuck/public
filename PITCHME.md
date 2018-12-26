@@ -19,8 +19,8 @@
 @box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
 @snapend
 
-@snap[midpoint]
-@box[bg-blue text-white waved demo-box-pad](Testing)
+@snap[midpoint span-35]
+@box[bg-black text-white waved demo-box-pad](이름#설명)
 @snapend
 
 ---?image=Image/BG.jpg
