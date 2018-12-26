@@ -20,7 +20,7 @@
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-black text-white waved demo-box-pad](이름#설명)
+@box[bg-red text-white waved demo-box-pad](이름#설명)
 @snapend
 
 ---?image=Image/BG.jpg
