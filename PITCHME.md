@@ -3,9 +3,9 @@
 @color[white](구미_2반_3조) 
 
 ---?image=Image/BG.jpg
-@snap[north-west]
+@snap[north-west text-white]
 @size[2.0em](응답하라 1988)
 @snapend
 
-![1994](Image/image1.jpg)
+![](Image/image1.jpg)
 ...
