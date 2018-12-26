@@ -1,7 +1,5 @@
 ---?image=Image/BG.jpg
-#  @color[white](사피) 
-#  @color[gray](미안) 
-#  @color[white]( 랩소디) 
+#  @color[white](사피) @color[gray](미안) @color[white]( 랩소디) 
 @color[white](구미_2반_3조) 
 
 ---?image=Image/BG.jpg
