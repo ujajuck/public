@@ -20,7 +20,7 @@
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-orange text-white waved demo-box-pad](권순찬#별명 : 찬이</br>성격 : 과묵)
+@box[bg-orange text-white waved demo-box-pad](권순찬#별명 : 차</br>성격 : 과묵)
 @snapend
 
 ---?image=Image/BG.jpg
