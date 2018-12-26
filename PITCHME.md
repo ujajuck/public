@@ -12,7 +12,7 @@
 @snapend
 
 @snap[south-east span-35]
-@box[bg-gray text-white demo-box-pad alien-left](임한솔#별명 : 솔이</br>성격 : 말이 많다)
+@box[bg-gray text-white demo-box-pad text-alien-left](임한솔#별명 : 솔이</br>성격 : 말이 많다)
 @snapend
 
 @snap[south-west span-35]
