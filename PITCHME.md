@@ -4,23 +4,23 @@
 
 ---?image=Image/BG.jpg
 @snap[north-west span-35]
-@box[bg-green text-white demo-box-pad](홍석훈#설명)
+@box[bg-green text-white demo-box-pad](홍석훈#별명 : 홍석</br>성격 : 솔선수범!!!)
 @snapend
 
 @snap[north-east span-35]
-@box[bg-pink text-white rounded demo-box-pad](김정환#설명)
+@box[bg-pink text-white rounded demo-box-pad](김정환#별명 : 와리</br>성격 : 하나에 빠지면 집중!!)
 @snapend
 
 @snap[south-east span-35]
-@box[bg-gray text-white demo-box-pad](임한솔#설명</br>fwefwe<br/>ㄹㄷㅈㄹㅈㄷ)
+@box[bg-gray text-white demo-box-pad](임한솔#별명 : 솔이</br>성격 : 말이 많다)
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white waved demo-box-pad](석주연#설명)
+@box[bg-blue text-white waved demo-box-pad](석주연#별명 : 석이</br>성격 : 말보다는 행동)
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-orange text-white waved demo-box-pad](권순찬#설명)
+@box[bg-orange text-white waved demo-box-pad](권순찬#별명 : 찬이</br>성격 : )
 @snapend
 
 ---?image=Image/BG.jpg
