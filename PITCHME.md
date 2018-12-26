@@ -3,5 +3,6 @@
 @colorwhite구미_2반_3조
 ---
 # 슬라이드 2
-그럼 이만...
+![Alt text](/Image/표지.jpg)
+
 ...
