@@ -1,4 +1,4 @@
----?image=assets/img/BG.jpg
+---?image=Image/BG.jpg
 # 슬라이드 1
 안녕하세요, 반갑습니다.
 ---
