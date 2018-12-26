@@ -4,5 +4,5 @@
 
 ---?image=Image/BG.jpg
 # 슬라이드 2
-![1994](/Image/표지.jpg)
+![1994](Image/표지.jpg)
 ...
