@@ -4,23 +4,23 @@
 
 ---?image=Image/BG.jpg
 @snap[north-west span-35]
-@box[bg-green text-white demo-box-pad](1. Plan#Lorem ipsum dolor sit amet eiusmod)
+@box[bg-green text-white demo-box-pad](이름#설명)
 @snapend
 
 @snap[north-east span-35]
-@box[bg-orange text-white rounded demo-box-pad](2. Build#Sed do eiusmod tempor labore)
+@box[bg-orange text-white rounded demo-box-pad](이름#설명)
 @snapend
 
 @snap[south-east span-35]
-@box[bg-pink text-white demo-box-pad](3. Measure#Cupidatat non proident sunt in)
+@box[bg-pink text-white demo-box-pad](이름#설명)
 @snapend
 
 @snap[south-west span-35]
-@box[bg-blue text-white waved demo-box-pad](4. Repeat#Ut enim ad minim veniam prodient)
+@box[bg-blue text-white waved demo-box-pad](이름#설명)
 @snapend
 
 @snap[midpoint span-35]
-@box[bg-red text-white waved demo-box-pad](이름#설명)
+@box[bg-gray text-white waved demo-box-pad](이름#설명)
 @snapend
 
 ---?image=Image/BG.jpg
