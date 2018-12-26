@@ -1,5 +1,5 @@
 ---?image=Image/BG.jpg
-#  @color[white](사피) @color[gray](미안) @color[white]( 랩소디) 
+#  @color[white](사피미안 랩소디) 
 @color[white](구미_2반_3조) 
 
 ---?image=Image/BG.jpg
@@ -12,7 +12,7 @@
 @snapend
 
 @snap[south-east span-35]
-@box[bg-gray text-white demo-box-pad text-left](임한솔#별명 : 솔이</br>성격 : 말이 많다)
+@box[bg-gray text-white,left demo-box-pad](임한솔#별명 : 솔이</br>성격 : 말이 많다)
 @snapend
 
 @snap[south-west span-35]
