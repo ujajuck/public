@@ -20,7 +20,7 @@ title: 나만의 챗봇
 
 #3. 기술적 어려움
 
-[!img](./Desktop/캡처.PNG)
+![default](https://user-images.githubusercontent.com/42142064/50436697-81a71d00-092a-11e9-8ff7-34349068987b.PNG)
 중고나라 홈페이지 구조 분석->[문제발생: ifame구조 -> html에서 크롤링이 어려움]
 ->해결방안: 중고나라 모바일 홈페이지에서 크롤링
 
