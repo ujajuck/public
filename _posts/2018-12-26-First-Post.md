@@ -2,7 +2,7 @@
 title: 자기 주도 학습
 ---
 
-![image](Image/Week1_Image.jpg)
+![image](/Image/Week1_Image.JPG)
 
 
 | 단계 |정의|               활용 Tool                |
