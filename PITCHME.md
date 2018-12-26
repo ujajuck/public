@@ -12,7 +12,7 @@
 @snapend
 
 @snap[south-east span-35]
-@box[bg-gray text-white demo-box-pad](임한솔#설명</br><br/>#test)
+@box[bg-gray text-white demo-box-pad](임한솔#설명</br>fwefwe<br/>ㄹㄷㅈㄹㅈㄷ)
 @snapend
 
 @snap[south-west span-35]
