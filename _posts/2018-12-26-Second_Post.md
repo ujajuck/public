@@ -7,6 +7,8 @@ title: 나만의 챗봇
 
 #1. 기획배경
 
+![22](https://user-images.githubusercontent.com/42142064/50436753-b4511580-092a-11e9-9e6f-f6c5036b3d1f.PNG)
+
 공식 앱의 게시글 부족
 공식 챗봇의 비활성화
 
@@ -21,6 +23,7 @@ title: 나만의 챗봇
 #3. 기술적 어려움
 
 ![default](https://user-images.githubusercontent.com/42142064/50436697-81a71d00-092a-11e9-8ff7-34349068987b.PNG)
+
 중고나라 홈페이지 구조 분석->[문제발생: ifame구조 -> html에서 크롤링이 어려움]
 ->해결방안: 중고나라 모바일 홈페이지에서 크롤링
 
